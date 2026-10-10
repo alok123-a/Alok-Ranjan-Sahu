@@ -1,0 +1,6 @@
+{
+  "name": "ThermaEdge UNO Q - Heatwave & Edge AI System",
+  "description": "Hyperlocal heatwave intelligence and autonomous thermal relief powered by Arduino UNO Q for BPUT Hackathon 2026. Real-time WBGT, TFLite indoor thermal forecasting, vulnerable persona risk grading, power cut survival, and street-level heat mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
